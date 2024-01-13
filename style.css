@@ -5,7 +5,7 @@
     font-family: 'Signika Negative', sans-serif;
 }
 nav{
-    background-color: saddlebrown;
+    background-color: rgb(139, 69, 19,1);
     position: fixed;
     width: 100%;
     z-index: 999;
